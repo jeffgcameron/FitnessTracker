@@ -1,3 +1,3 @@
 module.exports = {
-    Wokout: require("./workout")
+    Workout: require("./workout")
 };
