@@ -33,6 +33,4 @@ Visit my Github Profile at https://github.com/jeffgcameron
 Email me at jeffgcameron@gmail.com
 
 ## Application Link
-https://jeffgcameron.github.io/FitnessTracker/
-
 https://murmuring-dawn-68189.herokuapp.com/
