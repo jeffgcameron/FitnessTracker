@@ -19,13 +19,9 @@ const workoutSchema = new Schema({
         trim: true,
         // required: "Enter an exercise name",
       },
-      duration: {
+      totalDuration: {
         type: Number,
         // required: "Enter a duration for your workout",
-      },
-      distance: {
-        type: Number,
-        //required: "Enter a distance for your exercise"
       },
       weight: {
         type: Number,
@@ -38,6 +34,10 @@ const workoutSchema = new Schema({
       sets: {
         type: Number,
         //required: "Enter the number of sets for your workout"
+      },
+      distance: {
+        type: Number,
+        //required: "Enter a distance for your exercise"
       },
     },
   ],
